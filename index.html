@@ -1,0 +1,48 @@
+<!<!DOCTYPE html>
+<h
+    <head>
+        <meta charset="utf-8">
+        <title> Café juruaia</title>
+    </head>
+    <body style = "background-color: rgb(204, 197, 171);">
+
+    <h1 style = "Background-color:rgb(144, 110, 7);">Café Juruaia!</h1>
+	
+    <img src = "tempocafe.jpeg" alt = "tempo que estamos no mercado"  style = "widt:= 50%; height: 50%;"> 
+    
+    <h2 style = "Background-color: rgb(144, 109, 7);">História do café Juruaia</h3>
+    
+    <p style="font-size:130%;">Nossa marca não leva esse nome à toa. 
+	   O café torrado e moído na <ins>nossa torrefação</ins> vem de produtores próprios da região,
+	   que há séculos vem colocando o Sul de Minas no mapa graças à qualidade desses grãos
+	   Se você é produtor de café em Juruaia, venha fazer negócio com a gente!
+	   Nossa marca tem compromisso com a qualidade e tradição,
+	   e essas são características natas do nosso povo <ins>cafeeiro</ins> 
+	</p>   
+	<p style = "font-size: 130%;">Há muitos anos, quando Juruaia começou a aparecer no mapa da indústria têxtil brasileira, a gente também teve a vontade de fundar uma marca que pudesse atender aos juruaienses, turistas e lojistas envolvidos no mercado da moda íntima. 👙🎀🛍
+Vinte anos depois dessa vontade ter se concretizado e o Café Juruaia ter sido fundado, aqui estamos nós: fornecendo aquele típico cafezinho mineiro para as lojas de lingerie da cidade, seus consumidores e trabalhadores que constroem essa cidade. 👷‍♂️👷‍♀️☕️
+Café Juruaia: há vinte anos o café oficial da capital mineira da lingerie ❤️
+	</p>
+	
+    <h2 style = "background-color:rgb(144, 109, 7);"> Nosso café Juruaia!</h3> >
+	
+    
+    <img src = "cafe.jpeg" alt = "altitude do café Juruaia"  width= "420" >
+	<img src = "cafe2.jpeg" width= "420" >
+	<img src = "cafe3.jpeg" alt = "café torrado"  width= "480" >
+    
+    <h2 style = "background-color:rgb(144, 109, 7);">Sobre a Torrefação Juruaia</h2>
+	
+    <p style = "font-size: 130%;">Desde de 1998 buscando e trabalhando para trazer o melhor  para nossos clientes.
+Conheça nossas linhas de cafés tradicionais e especiais, você vai se apaixonar assim como nós que amamos café!<br>
+#torrefacaojuruaia #cafe #cafedequalidade #cafepuro #caféjuruaia</p>
+	<p style = "font-size: 130%;">Nossa marca está sempre à procura de parcerias com mercados, cafeterias e empórios que se interessem em oferecer o melhor café do Sul de Minas a seus clientes.
+	   Para ser um revendedor oficial de nossos produtos é só entrar em contato por email (torrefacaojuruaia@gmail.com) ou por telefone (35 3553-1598) para saber mais sobre preços e logísticas! ☕
+	</p>   
+	<img src = "evolucao cafe juruaia.jpg" alt = "evolução do cafe Juruaia" width="420" > 
+	
+	<img src = "rodape.jpeg" width="330" >
+	
+
+    </body>
+</html>
